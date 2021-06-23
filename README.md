@@ -9,7 +9,7 @@ Can we predict whether a wine is a good or bad wine?
 I implemented two diffrent algorithms, which are Random Forest Classifier and Support Vector Machine (SVM) Classifier to model and fit the data. In addition, I also optimized models with Hyper-parameter using GridSearch and class weighting. To quantify the models, I used the metrics of model accuracy, model classification report (F1 Score, Precision, Accuracy Between Classes, Recall), model confusion matrix and AUC(Area Under the Curve.) **The best result is Weighted Random Forest with AUC score: 0.76, Accurary score: 92.19%,	and F1 score: 0.81**
 
 
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Wine-Project-Python/blob/main/Images/RandomForest.png?raw=true"> | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Wine-Project-Python/blob/main/Images/ConfusionMatrix.png?raw=true"> |
+|<img width="450" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Wine-Project-Python/blob/main/Images/RandomForest.png?raw=true"> | <img width="450" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Wine-Project-Python/blob/main/Images/ConfusionMatrix.png?raw=true"> |
 |:-------------------------:|:-------------------------:|
 
 
@@ -20,7 +20,7 @@ I implemented a logistic regression to model and fit the data. To quantify the m
 **The result of this model has F1 score: 63.42, AUC Score: 66.44 and 
 the best score after submitting challenge is 0.08085.**
 
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/DontGetKicked-Kaggle-R/blob/main/Don-tGetKicked3_files/figure-gfm/unnamed-chunk-6-1.png?raw=true"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/DontGetKicked-Kaggle-R/blob/main/Don-tGetKicked3_files/figure-gfm/unnamed-chunk-11-1.png?raw=true"> |
+|<img width="450" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/DontGetKicked-Kaggle-R/blob/main/Don-tGetKicked3_files/figure-gfm/unnamed-chunk-6-1.png?raw=true"> |  <img width="450" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/DontGetKicked-Kaggle-R/blob/main/Don-tGetKicked3_files/figure-gfm/unnamed-chunk-11-1.png?raw=true"> |
 |:-------------------------:|:-------------------------:|
 
 
