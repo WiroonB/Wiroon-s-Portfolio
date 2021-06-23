@@ -20,10 +20,8 @@ I implemented a logistic regression to model and fit the data. To quantify the m
 **The result of this model has F1 score: 63.42, AUC Score: 66.44 and 
 the best score after submitting challenge is 0.08085.**
 
-
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/DontGetKicked-Kaggle-R/blob/main/Don-tGetKicked3_files/figure-gfm/unnamed- chunk-6-1.png?raw=true"> | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/DontGetKicked-Kaggle-R/blob/main/Don- tGetKicked3_files/figure-gfm/unnamed-chunk-11-1.png?raw=true">| 
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/DontGetKicked-Kaggle-R/blob/main/Don-tGetKicked3_files/figure-gfm/unnamed-chunk-6-1.png?raw=true"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/DontGetKicked-Kaggle-R/blob/main/Don-tGetKicked3_files/figure-gfm/unnamed-chunk-11-1.png?raw=true"> |
 |:-------------------------:|:-------------------------:|
- 
 
 ## [Sales Analysis(Python)](https://github.com/WiroonB/Sales-Analysis)
 **Overview**
