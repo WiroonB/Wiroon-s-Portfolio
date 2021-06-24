@@ -47,7 +47,7 @@ the best score after submitting challenge is 0.08085.**
 
 ## [Covid-19 Data Exploration(SQL)](https://github.com/WiroonB/Covid-19-DataExploration)
 **Overview**
-> The datasets contain hundreds of thousands of Covid-19 cases, deaths and vaccinations from different countries all over the world.
+> The datasets contain thousands of Covid-19 cases, deaths and vaccinations from different countries all over the world.
 > These are different tasks that are completed:
 > - Total Cases vs Total Deaths shows the likelihood of dying if you contract covid in your country.
 > - Total Cases vs Population shows what percentage of population got covid.
