@@ -26,8 +26,8 @@ the best score after submitting challenge is 0.08085.**
 ## [Sales Analysis(Python)](https://github.com/WiroonB/Sales-Analysis)
 **Overview**
 > Data analysis project completed using Pandas and Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. Differrent tasks are completed as following:
-> - **Data Cleaning Process** inlucdes Drop NaN values, Removing rows based on a condition, Change the type of columns (to_numeric, to_datetime, astype).
-> - **Data Exploration** inlcudes five high level business questions related to the data. 
+> - **Data Cleaning Process** inlucdes Dropping NaN values, Removing rows based on a condition, Changing the type of columns (to_numeric, to_datetime, astype).
+> - **Data Exploration** includes five high level business questions related to the data. 
 
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Sales-Analysis-Python/blob/main/Images/Q1BestMonth.png?raw=true"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Sales-Analysis-Python/blob/main/Images/Q2CityMostSold.png?raw=true"> | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Sales-Analysis-Python/blob/main/Images/Q3BestTime.png?raw=true">  |
 |:-------------------------:|:-------------------------:|:-------------------------:|
